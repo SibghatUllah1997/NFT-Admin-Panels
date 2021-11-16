@@ -1,0 +1,26 @@
+/* .fileContainer .deleteImage {
+  font-size: 15px;
+  background-color: red;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+}
+.deleteImage {
+  display: none;
+} */
+/* .DropzoneArea-dropZone-3 {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: rgb(241, 238, 238) !important;
+  color: grey;
+  border-style: hidden !important;
+}
+.DropzoneArea-dropzoneParagraph-14 {
+  margin-bottom: 50px;
+  margin-top: 40px;
+} */
+p {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
